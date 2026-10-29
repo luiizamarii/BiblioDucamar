@@ -3,3 +3,7 @@ A biblioteca Ducamar foi criada com a intenção de facilitar o acesso gratuito 
 
 ## contexto
 sistema para gerenciar entrada e saida dos livros da biblioteca. 
+
+- cadastra cliente
+- cadastra livro 
+
